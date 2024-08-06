@@ -10,18 +10,7 @@
     "plus":{
        "version":0,
        "iconpack": "solar",
-       "mentionLineColor": "#97B9F4",
-       "customOverlays": true,
-       "icons":{
-          "ic_radio_circle_checked": "#B5BDFF",
-          "ic_radio_circle_checked__overlay": "#FFFFFF",
-          "ic_radio_square_24px": "#B5BDFF",
-          "ic_radio_square_checked_24px": "#B5BDFF",
-          "ic_radio_square_checked_24px__overlay": "#FFFFFF",
-          "ic_selection_checked_24px": "#B5BDFF",
-          "ic_selection_checked_24px__overlay": "#FFFFFF",
-          "img_guild_folder": "#B5BDFF"
-            }
+       "customOverlays": true
     },
     "semanticColors":{
        "HEADER_PRIMARY":[
