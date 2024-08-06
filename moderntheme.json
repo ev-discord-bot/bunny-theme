@@ -9,12 +9,12 @@
     ],
     "semanticColors": {
     "HEADER_PRIMARY": [
-      "#ffffff",
-      "#FFFFFF"
+      "#8a94a8",
+      "#8a94a8"
     ],
     "HEADER_SECONDARY": [
-      "#c8c8c8",
-      "#FFFFFF"
+      "#8a94a8",
+      "#8a94a8"
     ],
     "TEXT_NORMAL": [
       "#8a94a8",
@@ -22,7 +22,7 @@
     ],
     "TEXT_MUTED": [
       "#576175",
-      "#FFFFFF"
+      "#576175"
     ],
     "INTERACTIVE_NORMAL": [
       "#576175",
